@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pongsakorn Thongrak
-===========================================================================================================================================
+Hi 👋 My name is Pongsakorn Thongrak
+====================================
 
 Student of IT SKNTC
 -------------------
@@ -9,6 +9,9 @@ Now I've been Learning Machine Learning
 * 🌍  I'm based in Samut Sakhon
 * ✉️  You can contact me at [contact.pongsakorn@gmail.com](mailto:contact.pongsakorn@gmail.com)
 * 🧠  I'm learning React
+
+<a href="https://www.github.com/decemberlnwza007" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/decemberlnwza007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -24,4 +27,4 @@ Now I've been Learning Machine Learning
 
 ### Badges
 
-<a href="https://github.com/decemberlnwza007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decemberlnwza007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/decemberlnwza007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decemberlnwza007&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
