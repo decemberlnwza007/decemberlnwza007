@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,laravel,express,flask" /> <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind"/>
     <h3>⛏️ Tools 🔨</h3>
-    <img src="https://skillicons.dev/icons?i=bash,blender,bun,,discord,docker,figma,firebase,git,github,gmail,mysql,npm,ps,ai,postman,pr,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,blender,bun,discord,docker,figma,firebase,git,github,gmail,mysql,npm,ps,ai,postman,pr,vercel" /><br>
 </div>
 
 <br/>
