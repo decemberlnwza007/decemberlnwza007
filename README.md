@@ -5,10 +5,7 @@
 
 <h3 align="center">Student Of IT Samut Sakhon Technical College</h3>
 
-<br/>
-
- <hr/>
- 
+ <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
