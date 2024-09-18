@@ -9,10 +9,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <h3>🚀Framework🚀</h3>
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,laravel" /> <br>
+    <h3>🚀 Frameworks 🚀</h3>
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,laravel,express,flask" /> <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind"/>
-    <img src="https://skillicons.dev/icons?i=" /><br>
+    <h3>⛏️ Tools 🔨</h3>
+    <img src="https://skillicons.dev/icons?i=bash,blender,bun,,discord,docker,figma,firebase,git,github,gmail,mysql,npm,ps,ai,postman,pr,vercel" /><br>
 </div>
 
 <br/>
