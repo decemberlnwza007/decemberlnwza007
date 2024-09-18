@@ -1,8 +1,6 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
-</h1>
 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
 <h3 align="center">Student Of IT Samut Sakhon Technical College</h3>
 
  <hr>
