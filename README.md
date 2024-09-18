@@ -10,7 +10,8 @@
 <br/>
 <div align="center">
     <h3>🚀Framework🚀</h3>
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,laravel" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind"/>
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
