@@ -3,9 +3,4 @@
 <p>Now I've been Learning Machine Learning</p>
 <list>🌍  I'm based in Samut Sakhon</list>
 <br>
-<style>
-  .email{
-    color: red;
-  }
-</style>
-<list class="email"> ✉️  You can contact me at contact.pongsakorn@gmail.com</list>
+<list class="email" style="color: red;"> ✉️  You can contact me at contact.pongsakorn@gmail.com</list>
