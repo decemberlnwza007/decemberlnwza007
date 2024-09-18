@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
     </h1>
 <h3 align="center">Student of Information Technology IT</h3>
 
