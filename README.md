@@ -2,4 +2,5 @@
 <h2>Student of IT SKNTC</h2>
 <p>Now I've been Learning Machine Learning</p>
 <list>🌍  I'm based in Samut Sakhon</list>
+<br>
 <list> ✉️  You can contact me at contact.pongsakorn@gmail.com</list>
