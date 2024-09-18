@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;from+Thailand+%F0%9F%87%B9%F0%9F%87%AD)](https://git.io/typing-svg)
+    https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;from+Thailand+%F0%9F%87%B9%F0%9F%87%AD)](https://git.io/typing-svg)
 </h1>
 
 <h3 align="center">Student Of IT Samut Sakhon Technical College</h3>
