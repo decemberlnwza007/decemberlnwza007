@@ -14,6 +14,8 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind"/>
     <h3>⛏️ Tools 🔨</h3>
     <img src="https://skillicons.dev/icons?i=bash,blender,bun,discord,docker,figma,firebase,git,github,gmail,mysql,npm,ps,ai,postman,pr,vercel" /><br>
+    <h3>🧑‍💻 Operating System 🧑‍💻</h3>
+    <img src="https://skillicons.dev/icons?i=windows,kali,linux,ubuntu,apple" /><br>
 </div>
 
 <br/>
