@@ -9,7 +9,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
