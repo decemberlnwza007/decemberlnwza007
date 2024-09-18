@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=50&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;from+Thailand+%F0%9F%87%B9%F0%9F%87%AD" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;from+Thailand+%F0%9F%87%B9%F0%9F%87%AD" /> 
 </h1>
 
 <h3 align="center">Student Of IT Samut Sakhon Technical College</h3>
