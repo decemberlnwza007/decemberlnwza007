@@ -3,11 +3,11 @@
     </h1>
 <h3 align="center">Student - Information Technology <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/> </h3> 
 
-<img src="https://github.com/decemberlnwza007/decemberlnwza007/blob/output/github-contribution-grid-snake2.svg"/>
+
  <hr>
  <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/decemberlnwza007/decemberlnwza007/blob/output/github-contribution-grid-snake2.svg"/>
   
   <br/><br/><br/>
 </div>
