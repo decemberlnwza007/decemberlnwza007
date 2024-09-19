@@ -1,7 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
     </h1>
-<h3 align="center">Student - Information Technology </h3> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
+<h3 align="center">Student - Information Technology </h3>
+<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%" align="center"/>
 
  <hr>
  <div align="center">
