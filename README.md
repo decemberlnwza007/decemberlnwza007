@@ -3,7 +3,7 @@
     </h1>
 <h3 align="center">Student - Information Technology <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/> </h3> 
 
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
  <hr>
  <div align="center">
   <br>
