@@ -7,7 +7,7 @@
  <div align="center">
   <br>
      
-![snake gif](https://github.com/decemberlnwza007/decemberlnwza007/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/decemberlnwza007/decemberlnwza007/blob/output/github-contribution-grid-snake.gif)
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
