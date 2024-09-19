@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
     </h1>
 <h3 align="center">Student - Information Technology <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/> </h3> 
-
+![snake gif](https://github.com/decemberlnwza007/decemberlnwza007/blob/output/github-contribution-grid-snake.svg)
 
  <hr>
  <div align="center">
   <br>
-![snake gif](https://github.com/decemberlnwza007/decemberlnwza007/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
