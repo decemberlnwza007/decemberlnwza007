@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
     </h1>
-<h3 align="center">Student - Information Technology </h3> <div class="tenor-gif-embed" data-postid="6768423659736907439" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pikachu-pokemon-tire-la-langue-gif-6768423659736907439">Pikachu Pokemon Sticker</a>from <a href="https://tenor.com/search/pikachu-stickers">Pikachu Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h3 align="center">Student - Information Technology </h3> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 
 
  <hr>
