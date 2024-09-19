@@ -15,7 +15,7 @@
 <br/>
 <div align="center">
     <h3>🚀 Frameworks 🚀</h3>
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,laravel,express,flask" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,laravel,flask" /> <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs"/> <br>
     <h3>🌐 Languages 🌐</h3>
     <img src="https://skillicons.dev/icons?i=html,css,php,py,js,ts,c,cs,"/> <br>
