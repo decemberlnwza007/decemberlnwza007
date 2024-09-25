@@ -10,8 +10,6 @@
      
 
 </div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <h3>🚀 Frameworks 🚀</h3>
     <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,laravel,flask" /> <br>
