@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=react,vue,vite,nextjs,nodejs,express,laravel,flask"  /> <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs"/> <br>
     <h3>🌐 Languages 🌐</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,php,py,js,ts,c,cs,"/> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,php,py,js,ts,c,cs,flutter"/> <br>
     <h3>⛏️ Tools 🔨</h3>
     <img src="https://skillicons.dev/icons?i=bash,blender,bun,docker,figma,firebase,git,github,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=gmail,mysql,npm,ps,ai,postman,pr,vercel,arduino,pycharm"/>
