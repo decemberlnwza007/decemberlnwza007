@@ -1,105 +1,120 @@
 <div align="center">
-    <img width="100%" height="180px" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" alt="Banner" />
-</h1>
+    <img width="100%" height="180px" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E46AE,100:00C2FF&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Banner" />
+</div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6CE4F7&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+My+Universe!;%F0%9F%8C%9F+I'm+Thanwa+Pongsakorn;%F0%9F%92%AB+Let's+Create+Something+Amazing!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6E46AE&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%8C%8C+Welcome+to+My+World!;%F0%9F%8C%A0+I'm+Thanwa+Pongsakorn;%E2%9C%A8+Crafting+Digital+Dreams!" />
 </h1>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-</p>
-
 <div align="center">
-    <a href="https://github.com/decemberlnwza007">
-        <img height="50" src="https://user-images.githubusercontent.com/60597290/173853543-f11b33c3-6b2b-4268-a4c7-3882c549636f.svg"/>
-    </a>
-    <a href="https://github.com/decemberlnwza007">
-        <img height="50" src="https://user-images.githubusercontent.com/60597290/173854802-2f2b29a7-4f78-4d59-a0b9-5162216f24c4.svg"/>
-    </a>
-</div>
-
-<div align="center"> 
-    <img src="https://img.shields.io/github/followers/decemberlnwza007?label=Followers&style=social" alt="GitHub Badge"/>
-    <img src="https://img.shields.io/github/stars/decemberlnwza007?label=Stars&style=social" alt="GitHub Badge"/>
-    <img src="https://komarev.com/ghpvc/?username=decemberlnwza007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
-
-<h2 align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
-</h2>
-
-
-<h2 align="center">🛠️ Technology Wonderland</h2>
-
-<details open>
-<summary><b>🚀 Framework Universe</b></summary>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,vite,nextjs,nodejs,express,laravel,flask,jquery" alt="Frameworks"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs" alt="UI Frameworks"/>
-</div>
-</details>
-
-<details open>
-<summary><b>💻 Language Galaxy</b></summary>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,php,py,js,ts,c,cs,flutter" alt="Languages"/>
-</div>
-</details>
-
-<details open>
-<summary><b>⚡ Power Tools</b></summary>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,blender,bun,docker,figma,firebase,git,github,vscode" alt="Tools"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=gmail,mysql,npm,ps,ai,postman,pr,vercel,arduino,pycharm" alt="More Tools"/>
-</div>
-</details>
-
-<details>
-<summary><b>🌍 Operating Systems</b></summary>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,kali,linux,ubuntu,apple" alt="OS"/>
-</div>
-</details>
-
-<h2 align="center">📊 Contribution Galaxy</h2>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=decemberlnwza007&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-    <br><br>
-    <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=decemberlnwza007&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decemberlnwza007&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
-        <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=decemberlnwza007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=HTML&langs_count=8" alt="Top Languages" />
-    
-    
-</div>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=decemberlnwza007&bg_color=0D1117&color=fe428e&line=f8d847&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-    <a href="https://instagram.com/your_username">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href="https://discord.gg/your_server">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/your_username">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
-</div>
-
-<div align="center">
-    <img height="120" src="https://user-images.githubusercontent.com/60597290/152531278-5e01909d-0c2e-412a-8acc-4a06863c244c.gif"/>
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25"> 
-    Thanks for Visiting! Come back soon!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25">
+    Information Technology Student
+    <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="30px"/>
 </h3>
+
+<div align="center">
+    <img src="https://img.shields.io/github/followers/decemberlnwza007?style=for-the-badge&logo=github&labelColor=6E46AE&color=00C2FF" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/decemberlnwza007?style=for-the-badge&logo=github&labelColor=6E46AE&color=00C2FF" alt="GitHub stars"/>
+    <img src="https://komarev.com/ghpvc/?username=decemberlnwza007&style=for-the-badge&color=6E46AE" alt="Profile views"/>
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"/>
+</div>
+
+<h2 align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+</h2>
+
+```javascript
+const thanwa = {
+    code: ["JavaScript", "Python", "PHP", "TypeScript", "C#"],
+    currentlyFocused: {
+        "🌐 Web Development": ["React", "Vue", "Next.js"],
+        "📱 Mobile": ["Flutter", "React Native"],
+        "☁️ Cloud": ["AWS", "Azure", "GCP"]
+    },
+    challenge: "Crafting innovative solutions one line at a time",
+    funFact: "Debugging is like being the detective in a crime movie 🔍"
+};
+```
+
+<h2 align="center">⚡ Technology Stack</h2>
+
+<details open>
+<summary><b>🎨 Frontend Mastery</b></summary>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,vue,vite,nextjs" alt="Frontend"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs" alt="UI"/>
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Arsenal</b></summary>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,php" alt="Backend"/>
+</div>
+</details>
+
+<details open>
+<summary><b>🛠️ Development Tools</b></summary>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,firebase" alt="Tools"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postman,vercel,arduino" alt="More Tools"/>
+</div>
+</details>
+
+<br>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=decemberlnwza007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="Trophy" />
+</div>
+
+<br>
+
+<div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=decemberlnwza007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decemberlnwza007&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<br>
+
+<div align="center">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decemberlnwza007&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=decemberlnwza007&bg_color=0D1117&color=6E46AE&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+</div>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+    <a href="https://instagram.com/your_username">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://discord.gg/your_server">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/your_username">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E46AE,100:00C2FF&height=120&section=footer" width="100%" />
+</div>
