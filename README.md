@@ -69,7 +69,7 @@ const thanwa = {
 <summary><b>🛠️ Development Tools</b></summary>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,firebase" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,firebase,bun,npm,docker" alt="Tools"/>
     <br>
     <img src="https://skillicons.dev/icons?i=mysql,postman,vercel,arduino" alt="More Tools"/>
 </div>
