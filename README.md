@@ -82,11 +82,11 @@ const thanwa = {
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=decemberlnwza007&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
     <br><br>
-    
     <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=decemberlnwza007&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decemberlnwza007&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
     
     <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=decemberlnwza007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=HTML&langs_count=8" alt="Top Languages" />
+    
 </div>
 
 <div align="center">
