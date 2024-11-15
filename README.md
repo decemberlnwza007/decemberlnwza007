@@ -1,50 +1,98 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Thanwa%2C+Pongsakorn+Thongrak!;" /> 
-    </h1>
-<h3 align="center">Student - Information Technology <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/> </h3> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=40&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Welcome+to+my+Digital+World!+%F0%9F%8C%9F;I'm+Thanwa%2C+Pongsakorn+Thongrak!;Always+Learning%2C+Always+Growing!+%F0%9F%8C%B1" />
+</h1>
 
- <hr>
- <div align="center">
-     <div align="center">.</div>
-  <br>
-     
-
-</div>
 <div align="center">
-    <h3>🚀 Frameworks 🚀</h3>
-    <img src="https://skillicons.dev/icons?i=react,vue,vite,nextjs,nodejs,express,laravel,flask,jquery"  /> <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs"/> <br>
-    <h3>🌐 Languages 🌐</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,php,py,js,ts,c,cs,flutter"/> <br>
-    <h3>⛏️ Tools 🔨</h3>
-    <img src="https://skillicons.dev/icons?i=bash,blender,bun,docker,figma,firebase,git,github,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=gmail,mysql,npm,ps,ai,postman,pr,vercel,arduino,pycharm"/>
-    <h3>🧑‍💻 Operating Systems 🧑‍💻</h3>
-    <img src="https://skillicons.dev/icons?i=windows,kali,linux,ubuntu,apple" /><br>
-    <h3>🛜 Social Media 🛜</h3>
-    <img src="https://skillicons.dev/icons?i=instagram,discord,twitter" /><br>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </div>
 
-<br/>
+<h3 align="center">
+    Information Technology Student | Full-Stack Developer | Tech Enthusiast
+    <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="30px"/>
+</h3>
 
-<hr/>
+<div align="center">
+    <a href="https://github.com/decemberlnwza007">
+        <img src="https://img.shields.io/github/followers/decemberlnwza007?label=Followers&style=social" alt="GitHub followers">
+    </a>
+    <a href="https://github.com/decemberlnwza007?tab=repositories">
+        <img src="https://img.shields.io/badge/Projects-View%20All-blue?style=flat&logo=github" alt="GitHub repositories">
+    </a>
+</div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+---
+
+<h3 align="center">🎯 Current Focus</h3>
+<p align="center">
+    💻 Developing innovative web applications<br>
+    📱 Learning mobile development<br>
+    🤝 Contributing to open-source projects<br>
+    📚 Expanding knowledge in cloud technologies
+</p>
+
+<h3 align="center">🛠️ Tech Arsenal</h3>
+
+<details open>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
 <br>
-<table align="center" border="0">
-<div align=center>
-<!--   <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=decemberlnwza007&count_private=true&theme=react&border_radius=20" alt="streak stats"/> -->
-  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=decemberlnwza007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=decemberlnwza007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,vue,vite,nextjs,nodejs,express,laravel,flask,jquery" alt="Frameworks"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs" alt="UI Frameworks"/>
 </div>
-</table>
+</details>
 
-<br/><br/>
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,php,py,js,ts,c,cs,flutter" alt="Languages"/>
+</div>
+</details>
 
-<hr/>
+<details open>
+<summary><b>🔧 Development Tools</b></summary>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bash,blender,bun,docker,figma,firebase,git,github,vscode" alt="Tools"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=gmail,mysql,npm,ps,ai,postman,pr,vercel,arduino,pycharm" alt="More Tools"/>
+</div>
+</details>
 
-<br/>
+<details>
+<summary><b>💫 Operating Systems & Platforms</b></summary>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=windows,kali,linux,ubuntu,apple" alt="OS"/>
+</div>
+</details>
 
-<br/>
+<details>
+<summary><b>🌐 Connect with Me</b></summary>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=instagram,discord,twitter" alt="Social Media"/>
+</div>
+</details>
 
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+    <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=decemberlnwza007&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decemberlnwza007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+    <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=decemberlnwza007&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=decemberlnwza007&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<h3 align="center">Thank you for visiting! 🙏</h3>
