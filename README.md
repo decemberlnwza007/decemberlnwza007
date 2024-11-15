@@ -6,10 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6E46AE&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%8C%8C+Welcome+to+My+World!;%F0%9F%8C%A0+I'm+Thanwa+Pongsakorn;%E2%9C%A8+Crafting+Digital+Dreams!" />
 </h1>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</div>
-
 <h3 align="center">
     Information Technology Student
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="30px"/>
@@ -33,13 +29,11 @@
 
 ```javascript
 const thanwa = {
-    code: ["JavaScript", "Python", "PHP", "TypeScript", "C#"],
+    code: ["JavaScript", "Python", "PHP", "TypeScript", "C#", "Flutter", "C"],
     currentlyFocused: {
         "🌐 Web Development": ["React", "Vue", "Next.js"],
         "📱 Mobile": ["Flutter", "React Native"],
-        "☁️ Cloud": ["AWS", "Azure", "GCP"]
     },
-    challenge: "Crafting innovative solutions one line at a time",
     funFact: "Debugging is like being the detective in a crime movie 🔍"
 };
 ```
@@ -104,14 +98,8 @@ const thanwa = {
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-    <a href="https://instagram.com/your_username">
+    <a href="https://instagram.com/decemberlnwza007">
         <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://discord.gg/your_server">
-        <img src="https://custom-icon-badges.demolab.com/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/your_username">
-        <img src="https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
 </div>
 
