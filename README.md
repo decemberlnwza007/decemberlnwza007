@@ -26,7 +26,6 @@
 <p align="center">
     💻 Developing innovative web applications<br>
     📱 Learning mobile development<br>
-    🤝 Contributing to open-source projects<br>
     📚 Expanding knowledge in cloud technologies
 </p>
 
