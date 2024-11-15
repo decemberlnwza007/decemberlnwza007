@@ -44,15 +44,13 @@ const thanwa = {
 <summary><b>💻 Language</b></summary>
 <br>
 <div align="center">
-    
-</div>
-<summary><b>🎨 Frontend Mastery</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=python,php,c,c#,javascript,typescript" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=python,php,c,cs,javascript,typescript" alt="Frontend"/>
     <br>
 <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs" alt="UI"/>
 </div>
-
+</div>
+<summary><b>🎨 Frontend Mastery</b></summary>
+<br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,nextjs" alt="Frontend"/>
     <br>
