@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-    Information Technology Student | Full-Stack Developer | Tech Enthusiast
+    Information Technology Student
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="30px"/>
 </h3>
 
