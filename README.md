@@ -45,10 +45,9 @@ const thanwa = {
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,python,php,c,cs,javascript,typescript" alt="Frontend"/>
-    <br>
-<img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs" alt="UI"/>
 </div>
-    
+
+<details open>
 <summary><b>🎨 Frontend Mastery</b></summary>
 <br>
 <div align="center">
