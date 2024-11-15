@@ -29,8 +29,6 @@
     📚 Expanding knowledge in cloud technologies
 </p>
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
-
 <details open>
 <summary><b>🚀 Frameworks & Libraries</b></summary>
 <br>
