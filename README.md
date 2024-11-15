@@ -29,19 +29,6 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
 </h2>
 
-```javascript
-const thanwa = {
-    pronouns: "He" | "Him",
-    title: "Information Technology Student",
-    passion: ["Web Development", "Mobile Apps", "Cloud Computing"],
-    currentFocus: {
-        learning: "Advanced Cloud Technologies",
-        building: "Innovative Web Applications",
-        exploring: "Mobile Development"
-    },
-    funFact: "I turn caffeine into code! ☕️"
-};
-```
 
 <h2 align="center">🛠️ Technology Wonderland</h2>
 
@@ -84,8 +71,8 @@ const thanwa = {
     <br><br>
     <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=decemberlnwza007&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decemberlnwza007&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+        <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=decemberlnwza007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=HTML&langs_count=8" alt="Top Languages" />
     
-    <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=decemberlnwza007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=HTML&langs_count=8" alt="Top Languages" />
     
 </div>
 
