@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809" width="400"/>
+    <img src="[https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809]" width="400"/>
 </div>
 
 <h2 align="center">
