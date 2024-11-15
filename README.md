@@ -98,7 +98,7 @@ const thanwa = {
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-    <a href="https://instagram.com/decemberlnwza007" target="_blank">
+    <a href="https://instagram.com/decemberlnwza007">
         <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </div>
