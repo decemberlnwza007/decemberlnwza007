@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6E46AE&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%8C%8C+Welcome+to+My+World!;%F0%9F%8C%A0+Thanwa+Pongsakorn;%E2%9C%A8+Crafting+Digital+Dreams!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6E46AE&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%8C%8C+Welcome+to+My+World!;%F0%9F%8C%A0+Phongsakorn+Thongrak+ - Thanwa;%E2%9C%A8+Crafting+Digital+Dreams!" />
 </h1>
 
 <h3 align="center">
