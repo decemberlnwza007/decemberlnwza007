@@ -44,7 +44,7 @@ const thanwa = {
 <summary><b>💻 Language</b></summary>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,php,c,cs,javascript,typescript" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=html,css,python,php,c,cs,javascript,typescript, flutter" alt="Frontend"/>
 </div>
 
 <details open>
