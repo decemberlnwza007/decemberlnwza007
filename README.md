@@ -58,7 +58,7 @@ const thanwa = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Arsenal</b></summary>
+<summary><b>⚙️ Backend Mastery</b></summary>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,php" alt="Backend"/>
