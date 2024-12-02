@@ -51,7 +51,7 @@ const thanwa = {
 <summary><b>🎨 Frontend Mastery</b></summary>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,vite,nextjs" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite" alt="Frontend"/>
     <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs" alt="UI"/>
 </div>
