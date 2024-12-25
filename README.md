@@ -92,10 +92,6 @@ const thanwa = {
 
 <br>
 
-<div align="center">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decemberlnwza007&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
-</div>
-
 <br>
 
 <div align="center">
