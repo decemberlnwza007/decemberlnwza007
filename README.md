@@ -79,20 +79,6 @@ const thanwa = {
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=decemberlnwza007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="Trophy" />
-</div>
-
-<br>
-
-<div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=decemberlnwza007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decemberlnwza007&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<br>
-
-<br>
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=decemberlnwza007&bg_color=0D1117&color=6E46AE&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
