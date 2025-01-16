@@ -171,9 +171,5 @@ mindmap
 <br>
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" width="100%" alt="Quote"/>
-</div>
-
-<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=shark&height=150&color=gradient&customColorList=12&section=footer" width="100%" alt="Footer"/>
 </div>
