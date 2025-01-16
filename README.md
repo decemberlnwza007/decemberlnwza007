@@ -20,23 +20,25 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1OHBwcmxvbjk4cXR0aHJlZzhzN2ZyZXAyeHBhOGYzY2doZmJybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"> Who am I?
 </h2>
 
-```typescript
+```kotlin
 class Developer {
-    name: string = "Phongsakorn Thongrak";
-    nickname: string = "Thanwa";
-    role: string = "Full-Stack Developer";
-    location: string = "🌏 Samut Sakhon, Bangkok, Thailand";
-    education: string = "📚 Information Technology Student";
-    interests: string[] = ["Web Development", "UI/UX Design", "IoT", "AI"];
-    
-    getLifeMotto(): string {
-        return "Code with passion, design with purpose! 🚀";
+
+    var name: String = "Phongsakorn Thongrak"
+    var nickname: String = "Thanwa"
+    var role: String = "Full-Stack Developer"
+    var location: String = "🌏 Samut Sakhon, Bangkok, Thailand"
+    var education: String = "📚 Information Technology Student"
+    var interests: List<String> = listOf("Web Development", "UI/UX Design", "IoT", "AI")
+
+    fun getLifeMotto(): String {
+        return "Code with passion, design with purpose! 🚀"
     }
-    
-    getCurrentFocus(): string {
-        return "Building innovative solutions that make a difference";
+
+    fun getCurrentFocus(): String {
+        return "Building innovative solutions that make a difference"
     }
 }
+
 ```
 
 <h2 align="center">
