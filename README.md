@@ -17,27 +17,42 @@
 <br>
 ---
 
-### 🌟 About Me `const developer = {`
+### 🌟 About Me
 
 ```typescript
-{
-    name: "Phongsakorn Thongrak",
-    nickname: "Thanwa",
-    location: "🌏 Samut Sakhon, Thailand",
-    title: "Full-Stack Developer & IT Student",
-    interests: [
-        "Building scalable web applications",
-        "Creating intuitive user interfaces",
-        "Exploring AI/ML technologies",
-        "IoT innovations"
-    ],
-    motto: "Transforming ideas into digital reality ✨",
-    currentlyLearning: [
-        "Web3 Development",
-        "Cloud Architecture",
-        "Advanced AI/ML"
-    ]
+data class Developer(
+    val name: String,
+    val nickname: String,
+    val location: String,
+    val title: String,
+    val interests: List<String>,
+    val motto: String,
+    val currentlyLearning: List<String>
+)
+
+fun main() {
+    val developer = Developer(
+        name = "Phongsakorn Thongrak",
+        nickname = "Thanwa",
+        location = "🌏 Samut Sakhon, Thailand",
+        title = "Full-Stack Developer & IT Student",
+        interests = listOf(
+            "Building scalable web applications",
+            "Creating intuitive user interfaces",
+            "Exploring AI/ML technologies",
+            "IoT innovations"
+        ),
+        motto = "Transforming ideas into digital reality ✨",
+        currentlyLearning = listOf(
+            "Web3 Development",
+            "Cloud Architecture",
+            "Advanced AI/ML"
+        )
+    )
+
+    println(developer)
 }
+
 ```
 
 ### 🎯 Expertise & Skills
