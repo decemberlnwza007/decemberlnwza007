@@ -28,14 +28,17 @@
 </h2>
 
 ```javascript
-const thanwa = {
-    code: ["JavaScript", "Python", "PHP", "TypeScript", "C#", "Flutter", "C"],
-    currentlyFocused: {
-        "🌐 Web Development": ["React", "Vue", "Next.js"],
-        "📱 Mobile": ["Flutter", "React Native"],
-    },
-    funFact: "Debugging is like being the detective in a crime movie 🔍"
-};
+fun main() {
+    val name = "Phongsakorn Thongrak"
+    val nickname = "Thanwa"
+    val job = "Student"
+    val location = "Samut Sakhon, Bangkok, Thailand"
+
+    println("Name: $name")
+    println("Nickname: $nickname")
+    println("Job: $job")
+    println("Location: $location")
+}
 ```
 
 <h2 align="center">⚡ Technology Stack</h2>
