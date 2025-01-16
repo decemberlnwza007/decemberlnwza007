@@ -15,11 +15,6 @@
 </div>
 
 <br>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300px" height="300px" alt="coding gif"/>
-</div>
-
 ---
 
 ### 🌟 About Me `const developer = {`
