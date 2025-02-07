@@ -14,10 +14,6 @@
 
 <br>
 
-<div align="center">
-    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=Redressed" width="100%" alt="Quote"/>
-</div>
-
 <br>
 
 ## 🎯 About Me
