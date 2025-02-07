@@ -18,55 +18,68 @@
 
 ## 🎯 About Me
 
-```typescript
-type TechStack = {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    devops: string[];
-    cloud: string[];
-    ai_ml: string[];
-};
+```python
+import asyncio
+import logging
+from typing import List, Dict
 
-class SoftwareArchitect {
-    private readonly name: string;
-    private readonly title: string;
-    private readonly location: string;
-    private readonly techStack: TechStack;
-    private readonly passions: string[];
-    
-    constructor() {
-        this.name = "Phongsakorn Thongrak (Thanwa)";
-        this.title = "Full-Stack Developer & Digital Innovation Specialist";
-        this.location = "🌏 Samut Sakhon, Thailand";
-        this.techStack = {
-            frontend: ["React", "Next.js", "Vue", "Nuxt", "TypeScript"],
-            backend: ["Node.js", "NestJS", "Go", "Laravel", "Python"],
-            database: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-            devops: ["Docker", "Kubernetes", "Jenkins", "GitLab CI"],
-            cloud: ["AWS", "GCP", "Azure", "Digital Ocean"],
-            ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI"]
-        };
-        this.passions = [
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+class TechStack:
+    def __init__(self):
+        self.frontend: List[str] = ["React", "Next.js", "Vue", "Nuxt", "TypeScript"]
+        self.backend: List[str] = ["Node.js", "NestJS", "Go", "Laravel", "Python"]
+        self.database: List[str] = ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
+        self.devops: List[str] = ["Docker", "Kubernetes", "Jenkins", "GitLab CI"]
+        self.cloud: List[str] = ["AWS", "GCP", "Azure", "Digital Ocean"]
+        self.ai_ml: List[str] = ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI"]
+
+    def get_stack(self) -> Dict[str, List[str]]:
+        return self.__dict__
+
+class SoftwareArchitect:
+    def __init__(self):
+        self.name: str = "Phongsakorn Thongrak (Thanwa)"
+        self.title: str = "Full-Stack Developer & Digital Innovation Specialist"
+        self.location: str = "\U0001F30F Samut Sakhon, Thailand"
+        self.tech_stack: TechStack = TechStack()
+        self.passions: List[str] = [
             "Building Scalable Solutions",
             "Cloud-Native Architecture",
             "AI/ML Integration",
             "Innovation & Research"
-        ];
-    }
+        ]
 
-    public async innovate(): Promise<void> {
-        while (true) {
-            await this.learn();
-            await this.build();
-            await this.share();
-            await this.improve();
-        }
-    }
-}
+    async def learn(self):
+        logging.info(f"{self.name} is learning new technologies...")
+        await asyncio.sleep(2)
 
-const thanwa = new SoftwareArchitect();
-thanwa.innovate().catch(console.error);
+    async def build(self):
+        logging.info(f"{self.name} is building innovative solutions...")
+        await asyncio.sleep(2)
+
+    async def share(self):
+        logging.info(f"{self.name} is sharing knowledge with the community...")
+        await asyncio.sleep(2)
+
+    async def improve(self):
+        logging.info(f"{self.name} is continuously improving...")
+        await asyncio.sleep(2)
+
+    async def innovate(self):
+        while True:
+            await self.learn()
+            await self.build()
+            await self.share()
+            await self.improve()
+
+if __name__ == "__main__":
+    thanwa = SoftwareArchitect()
+    try:
+        asyncio.run(thanwa.innovate())
+    except KeyboardInterrupt:
+        logging.info("Innovation process stopped by user.")
+
 ```
 
 ## 💫 Skills & Technologies
