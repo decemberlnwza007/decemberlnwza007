@@ -1,8 +1,4 @@
 <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=30&text=Phongsakorn%20Thongrak&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Passion%20%26%20Innovation&descSize=20&descAlignY=60&stroke=00E5FF&strokeWidth=3" alt="Header Banner"/>
-</div>
-
-<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=35&duration=3000&pause=1000&color=00E5FF&background=0D111700&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Solution+Architect+%F0%9F%8E%A8;AI+%26+Innovation+Explorer+%F0%9F%A4%96;Cloud+Infrastructure+Expert+%E2%98%81%EF%B8%8F;DevOps+Enthusiast+%E2%9A%A1" alt="Typing SVG"/>
 </div>
 
@@ -73,7 +69,6 @@ class SoftwareArchitect {
     }
 }
 
-// Initialize and start the journey
 const thanwa = new SoftwareArchitect();
 thanwa.innovate().catch(console.error);
 ```
@@ -96,15 +91,14 @@ mindmap
         Frameworks
             React & Next.js
             Vue & Nuxt.js
-            Angular & SvelteKit
         Styling
             Tailwind CSS
+            Bootstrap
             Styled Components
             CSS-in-JS
         State Management
             Redux Toolkit
             Zustand
-            Jotai/XState
         Tools
             Vite & Webpack
             Jest & Testing Library
@@ -133,11 +127,10 @@ mindmap
             Serverless
         Core
             Node.js & Express
-            NestJS & FastAPI
-            Go & Laravel
         Database
             PostgreSQL
             MongoDB
+            MySQL
             Redis & Cassandra
         API
             REST & GraphQL
