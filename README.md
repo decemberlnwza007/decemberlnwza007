@@ -28,10 +28,10 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 class TechStack:
     def __init__(self):
         self.frontend: List[str] = ["React", "Next.js", "Vue", "Nuxt", "TypeScript"]
-        self.backend: List[str] = ["Node.js", "NestJS", "Go", "Laravel", "Python"]
-        self.database: List[str] = ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
-        self.devops: List[str] = ["Docker", "Kubernetes", "Jenkins", "GitLab CI"]
-        self.cloud: List[str] = ["AWS", "GCP", "Azure", "Digital Ocean"]
+        self.backend: List[str] = ["Node.js", "Laravel", "Python"]
+        self.database: List[str] = ["PostgreSQL", "MongoDB"]
+        self.devops: List[str] = ["Docker"]
+        self.cloud: List[str] = ["AWS", "GCP", "Azure"]
         self.ai_ml: List[str] = ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI"]
 
     def get_stack(self) -> Dict[str, List[str]]:
@@ -41,7 +41,7 @@ class SoftwareArchitect:
     def __init__(self):
         self.name: str = "Phongsakorn Thongrak (Thanwa)"
         self.title: str = "Full-Stack Developer & Digital Innovation Specialist"
-        self.location: str = "\U0001F30F Samut Sakhon, Thailand"
+        self.location: str = "\U0001F30F Bangkok, Thailand"
         self.tech_stack: TechStack = TechStack()
         self.passions: List[str] = [
             "Building Scalable Solutions",
